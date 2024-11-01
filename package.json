@@ -1,6 +1,6 @@
 {
-  "homepage": "https://aegisen.github.io/peanusbutter/",
   "name": "peanus-butter",
+  "homepage": "https://aegisen.github.io/peanusbutter/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
