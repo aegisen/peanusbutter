@@ -5,7 +5,8 @@ import GetPlaylists from "./components/GetPlaylists";
 
 const CLIENT_ID = "d511528d911b44e9a81863869ee60809";
 const AUTH_ENDPOINT = "https://accounts.spotify.com/authorize";
-const REDIRECT_URL = "http://localhost:3000/";
+//const REDIRECT_URL = "http://localhost:3000/";
+const REDIRECT_URL = "https://aegisen.github.io/peanusbutter/";
 const SPACE_DELIM = "%20";
 const SCOPE = [
                 "playlist-read-private",

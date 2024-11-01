@@ -1,5 +1,5 @@
 const clientID = 'd511528d911b44e9a81863869ee60809';
-const redirectURL = 'http://localhost:3000/';
+const redirectURL = 'https://aegisen.github.io/peanusbutter/';
 const scope = ["user-read-email", "playlist-modify-pubilc", "playlist-modify-private", "playlist-read-private", "playlist-read-collaborative"];
 
 
