@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/peanusbutter/static/css/main.f855e6bc.css",
+    "main.js": "/peanusbutter/static/js/main.3a1845f0.js",
+    "static/js/453.269564f0.chunk.js": "/peanusbutter/static/js/453.269564f0.chunk.js",
+    "static/media/logo.svg": "/peanusbutter/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/peanusbutter/index.html",
+    "main.f855e6bc.css.map": "/peanusbutter/static/css/main.f855e6bc.css.map",
+    "main.3a1845f0.js.map": "/peanusbutter/static/js/main.3a1845f0.js.map",
+    "453.269564f0.chunk.js.map": "/peanusbutter/static/js/453.269564f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.3a1845f0.js"
+  ]
+}
